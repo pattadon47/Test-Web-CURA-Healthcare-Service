@@ -24,7 +24,7 @@ Web : https://katalon-demo-cura.herokuapp.com/
 <img width="1095" height="591" alt="image" src="https://github.com/user-attachments/assets/352786b9-d3a1-412e-8a9b-6fd28b33ae53" />
 <br>
 
-<h2>>อันนี้จะใส่ วันที่ย้อนหลังการนัด </h2>
+<h2>อันนี้จะใส่ วันที่ย้อนหลังการนัด </h2>
 <img width="710" height="743" alt="image" src="https://github.com/user-attachments/assets/686087bb-b3ed-4c12-a42d-4d4ea69c8318" />
 <br>
 
